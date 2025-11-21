@@ -1,0 +1,60 @@
+
+# 2025-11-21 18:08:14.189098
++Code the following app
++```
++Manual ROI Tracker — готовий опис для Mini App Factory
++
++Title: Manual ROI Tracker
++
++Description:
++Create a simple app where users can manually calculate their ROI (Return on Investment). The app should not use the internet or external data sources. All values are entered manually by the user.
++
++Functionality:
++ • The app shows two input fields:
++ 1. “Initial Investment”
++ 2. “Current Value”
++ • When the user enters numbers and clicks a button labeled “Calculate ROI”, the app calculates:
++ROI % = ((Current Value – Initial Investment) / Initial Investment) × 100
++ • Display the result in a clear text area labeled “Your ROI:”
++ • Include basic error handling:
++ • If fields are empty or contain invalid input, show a simple message like “Please enter valid numbers.”
++ • Add a small reset button labeled “Clear” to reset both inputs and the result.
++ • No external libraries, no API, no Web3. The app is fully local.
++
++UI Requirements:
++ • Clean layout with straightforward labels.
++ • Use simple elements only: text fields, labels, buttons, and a result box.
++ • Ensure the calculation works instantly after pressing the button.
++```
++
++Generate an app logo and update the app metadata title and description.
+
+# 2025-11-21 18:08:14.189792
++Code the following app
++```
++Manual ROI Tracker — готовий опис для Mini App Factory
++
++Title: Manual ROI Tracker
++
++Description:
++Create a simple app where users can manually calculate their ROI (Return on Investment). The app should not use the internet or external data sources. All values are entered manually by the user.
++
++Functionality:
++ • The app shows two input fields:
++ 1. “Initial Investment”
++ 2. “Current Value”
++ • When the user enters numbers and clicks a button labeled “Calculate ROI”, the app calculates:
++ROI % = ((Current Value – Initial Investment) / Initial Investment) × 100
++ • Display the result in a clear text area labeled “Your ROI:”
++ • Include basic error handling:
++ • If fields are empty or contain invalid input, show a simple message like “Please enter valid numbers.”
++ • Add a small reset button labeled “Clear” to reset both inputs and the result.
++ • No external libraries, no API, no Web3. The app is fully local.
++
++UI Requirements:
++ • Clean layout with straightforward labels.
++ • Use simple elements only: text fields, labels, buttons, and a result box.
++ • Ensure the calculation works instantly after pressing the button.
++```
++
++Generate an app logo and update the app metadata title and description.
